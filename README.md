@@ -1,6 +1,6 @@
 # Cuaca
 Simple Weather App with [React Native](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app) and [OpenWeather](https://openweathermap.org)
-
+![picture](https://res.cloudinary.com/hamharry/image/upload/v1536139494/bg-cuaca_usvqlv.png)
 ## Installation
 ### Development
 ```
