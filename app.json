@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+   "name": "Cuaca",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "harryandriyan-cuaca",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.syanasoft.harryandriyan"
+   },
+   "android": {
+     "package": "com.syanasoft.harryandriyan"
+   }
   }
 }
